@@ -1,2 +1,2 @@
 # logs-tracker
-This application will be used for visualizing logs. 
+This repository will be used for Logs-Tracking project. 
